@@ -1,0 +1,2 @@
+const API_KEY = ""; // Remplacez par votre clé API Google
+const CX = ""; // Remplacez par votre identifiant du moteur de recherche personnalisé Google

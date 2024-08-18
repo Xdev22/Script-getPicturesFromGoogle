@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m1",
+    "categoryIds": [
+      "c1",
+      "c2"
+    ],
+    "title": "Spaghetti with Tomato Sauce",
+    "imageUrl": "https://www.allrecipes.com/thmb/iZmE8xvusvYu16RIMZLdG1HX3OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254517-spaghetti-sauce-with-fresh-tomatoes-3x2-79-609ce4edcafb4191b609180163fed92b.jpg",
+    "ingredients": [
+      "4 tomatoes",
+      "1 tablespoon olive oil",
+      "1 onion",
+      "250g spaghetti",
+      "Salt and pepper to taste",
+      "Fresh basil or dried basil (optional)",
+      "Grated cheese (optional)"
+    ],
+    "steps": [
+      "1. Dice the tomatoes and finely chop the onion.",
+      "2. In a large pot, bring water to a boil and add a pinch of salt.",
+      "3. Cook the spaghetti according to package instructions (usually 10-12 minutes) until al dente.",
+      "4. While the pasta is cooking, heat the olive oil in a pan over medium heat.",
+      "5. Add the chopped onion and cook until translucent, about 2 minutes.",
+      "6. Add the diced tomatoes to the pan. Season with salt, pepper, and basil (if using). Cook until tomatoes are soft and slightly saucy, about 10 minutes.",
+      "7. Drain the spaghetti and mix with the tomato sauce. Top with grated cheese if desired."
+    ],
+    "duration": 20,
+    "complexity": "simple",
+    "affordability": "affordable",
+    "isGlutenFree": false,
+    "isVegan": true,
+    "isVegetarian": true,
+    "isLactoseFree": true
+  },
+  {
+    "id": "m2",
+    "categoryIds": [
+      "c2"
+    ],
+    "title": "Vegetarian Toast",
+    "imageUrl": "https://vancouverwithlove.com/wp-content/uploads/2023/05/vegan-avocado-toast-34.jpg",
+    "ingredients": [
+      "2 slices whole grain bread",
+      "1 ripe avocado",
+      "1 tomato",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional)",
+      "Fresh basil leaves (optional)"
+    ],
+    "steps": [
+      "1. Toast the slices of bread to your liking.",
+      "2. While the bread is toasting, cut the avocado in half, remove the pit, and scoop the flesh into a bowl.",
+      "3. Mash the avocado with a fork until smooth. Season with salt and pepper.",
+      "4. Slice the tomato thinly.",
+      "5. Spread the mashed avocado evenly over the toasted bread.",
+      "6. Top with tomato slices. Season with additional salt, pepper, and red pepper flakes if desired.",
+      "7. Garnish with fresh basil leaves if using."
+    ],
+    "duration": 10,
+    "complexity": "simple",
+    "affordability": "affordable",
+    "isGlutenFree": false,
+    "isVegan": false,
+    "isVegetarian": false,
+    "isLactoseFree": true
+  }
+]
